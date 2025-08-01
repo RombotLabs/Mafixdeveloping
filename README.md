@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Mafixdeveloping
-- 👀 I’m interested in Python, C, hacking and website developing.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on flask websites.
-- 📫 How to reach me: When you invite me to repos or send a pull request.
-- 😄 Pronouns: male
-- ⚡ Fun fact: I'm developing since the 4th grade with Python. (Im in the 9th grade)
-- Languages: html, Python, C (A little bit), css.
-
+Hi, I'm Mafixdeveloping, aka Rombot Dev.
+I'm a 9th-grade student from Germany, and I'm always open to collaborating!
+I’ve been working with Python since 4th grade, and I’m currently learning C.
+I’ve already built a few websites using Flask.
+If you're interested in working together, we can use the Discussions section of a repo. (Privacy is very important to me.)
