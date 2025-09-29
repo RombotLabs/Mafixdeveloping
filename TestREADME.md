@@ -8,7 +8,7 @@ I started coding in **Python back in 4th grade**, and I’m currently diving dee
 - Explored backend and frontend development  
 - Collaborated on small open-source projects  
 
-🔒 **Privacy is important to me**, so if you’d like to collaborate, please reach out via the **Discussions** section of a repository.  
+🔒 **Privacy is important to me**, so if you’d like to collaborate, please reach out via a **pr** in one of my repositories.  
 
 ---
 
